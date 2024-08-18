@@ -6,7 +6,7 @@ Welcome to the Network Packet Analyzer repository!
 
 A Network Packet Analyzer (also known as a packet sniffer or protocol analyzer) is a powerful tool used to capture, analyze, and interpret network traffic. It helps network administrators, security professionals, and developers monitor and troubleshoot networks, identify issues, and gain insights into network behavior.
 
-           ----------------  Key Features-----------------
+  Key Features : 
 
 - Real-time Traffic Monitoring: Capture live network traffic and analyze it on the fly.
 - Detailed Packet Analysis: Inspect packet headers and payloads to understand protocols and data flow.
